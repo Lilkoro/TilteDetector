@@ -1,0 +1,4 @@
+DateTime==5.0
+keyboard==0.13.5
+plyer==2.1.0
+requests==2.28.0
